@@ -1,5 +1,6 @@
 # Assessment-Task-10minuteSchool-Exam-Data
 ### Day-wise Attendance Trend
+The live report is available [here](https://app.powerbi.com/view?r=eyJrIjoiMzcwYWZjNTQtMjIxMS00YjJiLThlZTctNjFkYjA5NTBmZTJiIiwidCI6ImE3ODgzOTdiLWIzYjItNDU2OC1iNTdjLTI5ODY0ZTgxZjdmZiIsImMiOjEwfQ%3D%3D&pageName=8ca6299acbbc977a3066) 
 
 ![Day-wise Attendance Trend](Pages/Visual_page-0001.jpg)
 
